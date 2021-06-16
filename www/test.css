@@ -1,0 +1,33 @@
+
+a {
+   color: inherit;
+   text-decoration: none !important;
+}
+
+svg{
+  font: bold 1em Century Gothic, Arial;
+  /* width: 100%;
+  height: 120px; */
+}
+
+#button-div {
+   margin: auto;
+   position: relative;
+   width: 70%;
+   text-align: center;
+}
+
+
+
+#welcome {
+   margin: auto;
+   position: absolute;
+   top: 1100px;
+   bottom: 0px;
+   left: 0;
+   right: 0;
+   width: 80%;
+   text-align: left;
+}
+
+
