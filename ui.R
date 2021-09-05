@@ -8,7 +8,7 @@ library(plotly)
 shinyUI(
   fluidPage(
     theme = "bootstrap.css",
-    title = "Ken Web Portfolio",
+    title = "Ken Portfolio",
     tags$head(tags$script(src="leon_new.js"),
               tags$script(src="https://cdnjs.cloudflare.com/ajax/libs/gsap/2.1.3/TweenMax.min.js"),
               tags$style(type='text/css', 
